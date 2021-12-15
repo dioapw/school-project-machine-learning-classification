@@ -7,9 +7,11 @@ from scipy import stats
 import sklearn
 
 
-df = pd.read_csv("https://raw.githubusercontent.com/dioapw/school-project-clustering-classification/main/kendaraan_train.csv")
+# dataset from github
+url = "https://raw.githubusercontent.com/dioapw/school-project-clustering-classification/main/kendaraan_train.csv"
+
+df = pd.read_csv(url)
 #Reading the dataset in a dataframe using Pandas
-# hello there
 
 df.head(10)  #Print first ten observations
 
