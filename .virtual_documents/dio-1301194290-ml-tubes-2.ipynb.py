@@ -9,6 +9,7 @@ import sklearn
 
 df = pd.read_csv("https://raw.githubusercontent.com/dioapw/school-project-clustering-classification/main/kendaraan_train.csv")
 #Reading the dataset in a dataframe using Pandas
+# hello there
 
 df.head(10)  #Print first ten observations
 
