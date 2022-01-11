@@ -1,2 +1,1 @@
-# school-project-classification
-Final Project of Machine Learning Course: Exploration, Data Preparation, and Classification
+# **Data Preparation, Exploration and Classification**
